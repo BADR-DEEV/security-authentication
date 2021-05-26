@@ -1,0 +1,25 @@
+This is one of the sites that iam really proud of.
+
+all it does is sharing secrets with multipale users so you will find some stupid secrets like banana.
+
+i didnt focus in the styling. so this is heavily focused in the backend.
+
+but the security and the authentication is really good.
+
+
+
+so nothing intresting here only for the authentication (did i write that write?) and the security
+
+
+
+
+to use it 
+
+
+*1 go to command prompt and write
+
+cd (the path you put the folder in) for example cd desktop/Todolist
+
+*2 write nodemon app.js (if you have node.js otherwise)
+
+*3 go to chrome and write localhost:3000
